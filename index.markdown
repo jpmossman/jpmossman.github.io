@@ -5,12 +5,12 @@
 layout: default
 ---
 # Welcome
-This is the personal website of JP Mossman, where I show off projects and host other files for convenience.
+This is the personal website of JP Mossman, where host some files for convenience and show off projects.
 
 For more information about the author, see my [about](./about/) page.
 
-# Experience
-todo: write down past experiences
+# Blog posts
+todo: add blog posts
 
 # Projects
 todo: write down projects im proud of
